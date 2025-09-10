@@ -10,18 +10,8 @@ body {
   background-repeat: no-repeat;
 }
 
-/* 
-  Background-image'ın genisligi kadar
-  ana kapsayici yani container'inizin genisliginide
-  ayarlamalisiniz ki hem img hem icerik(yazi vs)
-  sabit kalsin. Aksi halde container'a width vermezseniz
-  container icindeki etiketleriniz flexible kalir
-*/
-
 .container {
   width: 1440px;
-  /* margin-top: 313px; */
-  /* margin-left: 418px; */
   padding-top: 313px;
   text-align: center;
 }
@@ -42,10 +32,7 @@ a {
   color: white;
   text-decoration: none;
   background-color: #094BAC;
-  /* margin: 16px 40px 16px 40px;
-  aşağıdaki kod ile aynı */
   padding: 16px 40px;
   border-radius: 32px;
-
   display: inline-block;
 }
