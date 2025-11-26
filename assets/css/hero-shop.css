@@ -6,7 +6,7 @@
 
 body {
   font-family: system-ui;
-  background-image: url('assets/img/hero-shop.png');
+  background-image: url('/assets/img/hero-shop.png');
   background-repeat: no-repeat;
 }
 
